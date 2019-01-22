@@ -1,0 +1,19 @@
+# AD320-IA3-Marquez
+
+	
+	
+	Captain's
+	Individual Assignment 3 - Javascript DOM & Events freestyle! 
+	
+	Five Events....
+	One...
+		AddListen ONE (type any valid color but aqua in the box and click button
+	Two...
+		AddListen TWO (Enter 2 numbers that will be added when + is pressed
+	Three...
+		AddListen THREE (Try This Buttom to Get Current Date!!!
+	Four...
+		AddListen FOUR (Hover Over The Mouse for a Response!!!
+	Five...
+		AddListen FIVE (Click for stair to heaven)
+	 
